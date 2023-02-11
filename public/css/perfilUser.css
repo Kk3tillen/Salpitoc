@@ -1,0 +1,70 @@
+nav{
+    background-color: #ca2424;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    width: 100%;
+}
+a{
+    color: white;
+}
+#logo{
+    width: 19rem;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+header{
+    display: grid;
+    place-items: center;
+    width: 100%;
+}
+#perfil{
+    background-color: #f5f5f5;
+    border: 1px solid #b4b4b4;
+    padding: 50px;
+    border-radius: 30px;
+    display: grid;
+    gap: 30px;
+    place-items: center;
+}
+#perfil img{
+    width: 160px;
+    border-radius: 200px;
+}
+
+#caracteristicas{
+    display: grid;
+    place-items: center;
+}
+main{
+    display: flex;
+    align-items: stretch;
+    padding: 25px;
+    border-radius: 30px;
+    gap: 60px;
+}
+main img{
+    width: 100px;
+}
+.areas{
+    display: grid;
+    place-items: center;
+    gap:2rem;
+}
+a{
+    color: black;
+}
+#opcions{
+    display: grid;
+    gap: 25px;
+    background-color: #f5f5f5;
+    border-radius: 30px;
+    padding: 50px;
+    border: 1px solid #b4b4b4;
+}
+nav a{
+    color: white;
+}
